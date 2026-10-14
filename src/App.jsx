@@ -51,7 +51,7 @@ function App() {
         </p>
       </section>
 
-      <footer>Built with React and useState</footer>
+      
     </main>
   );
 }
